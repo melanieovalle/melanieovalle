@@ -26,3 +26,6 @@ I’m seeking a software engineering internship where I can apply my skills in s
 ### 💌 Let's Connect!
 - 📫 : [Email Me](mailto:melanieovalle008@gmail.com)
 - 💼 : [LinkedIn](https://www.linkedin.com/in/melanie-ovalle-a25609310/)
+
+### Check Out My Personal Website (in progress)
+- ⭐ Live Demo: https://melanieovalle.github.io/melanies_portfolio/
